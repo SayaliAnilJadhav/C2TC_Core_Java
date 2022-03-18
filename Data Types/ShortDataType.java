@@ -11,7 +11,5 @@ public class ShortDataType
             // short num= -32769;        //Error
            
             System.out.println(num);
-            	 
           }
-
 }
