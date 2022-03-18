@@ -11,7 +11,7 @@ public class ByteDataType
               //byte num1 = 128;                //Error
                 //System.out.println(num1);
 
-              //byte num2= -129;                //Error
+              //byte num2 = -129;                //Error
               //System.out.println(num2);
 
               byte num3 = 127;
