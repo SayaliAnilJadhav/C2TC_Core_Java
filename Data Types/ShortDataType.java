@@ -10,7 +10,7 @@ public class ShortDataType
             // short num = 32769;         //Error
             // short num= -32769;        //Error
            
-           System.out.println(num);
+            System.out.println(num);
             	 
           }
 
