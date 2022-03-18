@@ -3,7 +3,7 @@ package com.tns.coreJava;
 public class ByteDataType 
 {
   //range ----> -128 to 127
-	    public static void main(String[] args)
+      public static void main(String[] args)
       	{
               byte num = 10;
               System.out.println(num);
@@ -25,7 +25,5 @@ public class ByteDataType
 
               byte num6 = 126;
               System.out.println(num6);
-
-	      }
-
+         }
 }
