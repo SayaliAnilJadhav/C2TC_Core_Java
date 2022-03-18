@@ -19,6 +19,6 @@ public class IntDataType
 	     System.out.println(num2);
 		  
              //int num3 = -2147483649;    //Error
-	     System.out.println(num1);
+	     // System.out.println(num1);
 	 }
 }
