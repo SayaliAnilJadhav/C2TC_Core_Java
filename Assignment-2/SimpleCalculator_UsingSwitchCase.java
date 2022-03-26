@@ -16,7 +16,7 @@ public class SimpleCalculator_UsingSwitchCase
 		  System.out.println("Chooose an operator : +, -, *, /");
 		  operator = input.next().charAt(0);
 		
-	    System.out.println("Enter Second Number= ");
+	          System.out.println("Enter Second Number= ");
 		  num2 = input.nextDouble();
 		
 		  switch(operator)
@@ -41,6 +41,6 @@ public class SimpleCalculator_UsingSwitchCase
 			   System.out.println(num1 + " / " + num2 + " = " + ans);
 			   break;
 		 }
-  }
+         }
 
 }
