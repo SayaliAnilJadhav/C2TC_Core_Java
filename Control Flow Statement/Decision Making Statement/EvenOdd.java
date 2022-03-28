@@ -5,15 +5,15 @@ public class EvenOdd
 {
   public static void main(String[] args) 
     {
-	    int num;
-	  	System.out.println("Enter Number= ");
+	  int num;
+	  System.out.println("Enter Number= ");
 	  
-	  	Scanner input = new Scanner(System.in);
-	  	num = input.nextInt();
+	  Scanner input = new Scanner(System.in);
+	  num = input.nextInt();
 	  	
-	  	if(num % 2 == 0)
-	  		System.out.println("The " + num + " is even");
-	  	else
-	  		System.out.println("The " + num + " is odd");
-	 }
+	  if(num % 2 == 0)
+	  	System.out.println("The " + num + " is even");
+	  else
+	  	System.out.println("The " + num + " is odd");
+     }
 }
