@@ -40,7 +40,7 @@ public abstract class PrimeAcc extends ShopAcc
   @Override
   public String toString()
    {
-	   return "Dear Prime user, Your Product charges are:" +charges;
+	   return "Dear Prime user, Your Product charges are: " +charges;
    }
 }
 
