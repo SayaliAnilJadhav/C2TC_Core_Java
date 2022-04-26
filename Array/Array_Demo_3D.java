@@ -4,7 +4,7 @@ public class Array_Demo_3D {
 
 	public static void main(String[] args) {
 	
-    int arr[][][]= {{{10,48,35,90}},{{79,80,56}},{{15,55}},{{100}}};
+                int arr[][][]= {{{10,48,35,90}},{{79,80,56}},{{15,55}},{{100}}};
 		
 		System.out.println("3D Zero Rference 2D Zero Rference First Value  :"+arr[0][0][0]);
 		System.out.println("3D Zero Rference 2D Zero Rference Second Value :"+arr[0][0][1]);
